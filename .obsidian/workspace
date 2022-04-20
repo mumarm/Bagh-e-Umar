@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "df60ec280e25727c",
+        "id": "98387cc95aa5082d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df60ec280e25727c",
+  "active": "98387cc95aa5082d",
   "lastOpenFiles": [
-    "Introduction.md"
+    "First Note.md",
+    "home.md"
   ]
 }
