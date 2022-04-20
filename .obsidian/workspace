@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7f0b9917443fa1ee",
+        "id": "ee9a408a5f20dc4d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,6 +82,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f0b9917443fa1ee",
-  "lastOpenFiles": []
+  "active": "ee9a408a5f20dc4d",
+  "lastOpenFiles": [
+    "First Note.md"
+  ]
 }
