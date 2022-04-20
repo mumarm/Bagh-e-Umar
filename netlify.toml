@@ -19,7 +19,7 @@ SITE_TITLE = "Bagh e Umar / a digital garden & 2nd 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Umar's garden"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://warm-creponne-a23a13.netlify.app/"
+SITE_URL = "https://bagheumar.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
