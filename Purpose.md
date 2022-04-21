@@ -8,4 +8,4 @@ Thank you for visiting here.
 
 Navigation links:
 
-[[Home]] | [[Professional Resume]] | [[test]]
+[[Home]] | [[Professional Resume]]

@@ -94,9 +94,9 @@ Strategic planning & Marketing management of client projects
 [aur TV: Aik aur Subh Program & Host Interview  in Urdu](http://drtnews.com/ur/archives/8955)
 
 ## Socials
-https://www.linkedin.com/in/mumarm/
-https://twitter.com/MUmarMuzaffar
-facebook.me/muhammadumarmuzaffar
+[LinkedIn](https://www.linkedin.com/in/mumarm/)
+[Twitter](https://twitter.com/MUmarMuzaffar)
+[facebook](facebook.me/muhammadumarmuzaffar)
 
 ## Education
 
@@ -133,6 +133,7 @@ facebook.me/muhammadumarmuzaffar
 - Google Analytics Individual Qualification
 - LinkedIn Online Marketing Foundations
 - Hubspot Social Media Certified
+	- ![[Hubspot SM Certified.png]]
 - Presentation Skills Course (2010) - TSA
 - Intensive Conversation Course (2005) - PACC
 
