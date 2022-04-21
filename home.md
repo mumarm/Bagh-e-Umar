@@ -1,15 +1,21 @@
-Hello!
+## Introduction
 
-Thank you so much for walking into my digital garden.
-My name is Umar and I am from Pakistan.
+Hello & As'salamu Alaekum (Peace be on you)! Thank you for walking into my digital garden. I really hope you like it here.
 
-This digital garden is a way to document my learning journey and share it with the world.
+My name is Muhammad Umar Muzaffar and I am from Pakistan. This digital garden is a way to document my learning journey and share it with the world.
 
-Feel free to explore or suggest improvements.
+I am a student of Social Sciences; studied #Marketing & #Economics in particular & Business Administration in general. I help businesses with developing solid marketing strategies, writing good marketing copy & working on customer experience.
 
-*Contact:*
-[Twitter](https://twitter.com/MUmarMuzaffar)
-Email: umarr@duck.com
+I enjoy reading non-fiction, watch documentaries & play video games in my spare time. I'm a cat person & love petting strays.
 
+Feel free to explore my digital garden or suggest improvements.
+
+## Contact
+If you would like to contact me. Feel free to email me at umarr@duck.com
+Or you can interact with me on [Twitter](https://twitter.com/MUmarMuzaffar).
+I'll be happy to reply and help you in any way.
+
+## Navigation
+You can navigate to any part by clicking on the following links.
 
 [[Purpose]] |  [[Professional Resume]] | [[Portfolio]]
