@@ -7,8 +7,12 @@
         "id": "8b2e9fba47890665",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +90,8 @@
   "active": "8b2e9fba47890665",
   "lastOpenFiles": [
     "Home.md",
+    "Profile/Professional Resume.md",
+    "Profile/Portfolio.md",
     "Portfolio/Portfolio.md",
     "Purpose.md",
     "Portfolio/Professional Resume.md"

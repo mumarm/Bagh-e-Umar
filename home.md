@@ -11,7 +11,7 @@ I enjoy reading non-fiction, watch documentaries & play video games in my spare 
 Feel free to explore my digital garden or suggest improvements.
 
 ## Contact
-If you would like to contact me. Feel free to email me at umarr@duck.com
+If you would like to contact, feel free to email me at umarr@duck.com
 Or you can interact with me on [Twitter](https://twitter.com/MUmarMuzaffar).
 I'll be happy to reply and help you in any way.
 
