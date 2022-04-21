@@ -157,8 +157,8 @@ facebook.me/muhammadumarmuzaffar
 - Disaster Relief Camp - Pakistan Army (2005)
 
 ## Contact
-Emai: umarr@duck.com
-Location: Clifton, Karachi
+Email: umarr@duck.com
+Location: Karachi, Pakistan
 
 
 ## Tags

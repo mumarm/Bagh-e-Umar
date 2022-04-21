@@ -6,6 +6,6 @@ This will also serve as a my website, store of personal knowledge and profession
 
 Thank you for visiting here.
 
-Here's links to navigate:
+Navigation links:
 
-[[home]] | [[Professional Resume]] | [[test]]
+[[Home]] | [[Professional Resume]] | [[test]]
