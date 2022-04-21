@@ -1,3 +1,9 @@
+## Menu
+You can navigate to any corner of the garden. Following links will help you:
+
+[[Purpose]] |  [[Professional Resume]] | [[Portfolio]]
+
+
 ## Introduction
 
 Hello & As'salamu Alaekum (Peace be on you)! Thank you for walking into my digital garden. I really hope you like it here.
@@ -11,11 +17,8 @@ I enjoy reading non-fiction, watch documentaries & play video games in my spare 
 Feel free to explore my digital garden or suggest improvements.
 
 ## Contact
-If you would like to contact, feel free to email me at umarr@duck.com
-Or you can interact with me on [Twitter](https://twitter.com/MUmarMuzaffar).
+Feel free to email me at umarr@duck.com
+
+Or interact with me on [Twitter](https://twitter.com/MUmarMuzaffar).
+
 I'll be happy to reply and help you in any way.
-
-## Navigation
-You can navigate to any part by clicking on the following links.
-
-[[Purpose]] |  [[Professional Resume]] | [[Portfolio]]

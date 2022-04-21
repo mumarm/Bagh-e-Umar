@@ -1,6 +1,6 @@
 ## Projects
 
-- Raymond Pakistan (Social Media)
+### Raymond Pakistan (Social Media)
 
 *Jinnah in suits*
 
@@ -17,7 +17,7 @@
 ![[Raymond - Brown suit & shoes.png]]
 
 
-- WashnClean (Brand & Social Media)
+### WashnClean (Brand & Social Media)
 
 *World Water Day*
 
@@ -34,14 +34,16 @@
 ![[WnC Flyer.jpg]]
 
 
-- **Tech4Life Enterprises (Marketing, Sales, Web & Social)**
+### Tech4Life Enterprises (Marketing, Sales, Web & Social)
 
 *T4L's eSteth Digital Stethoscope demo at ARAB HEALTH '17*
+
+T4L CEO Dr.Shariq Khoja giving a Live demonstration of heart beat sounds transfer via eSteth.
 
 ![[T4L - eSteth.jpeg]]
 
 
-*Speaking at panel discussion on behalf of T4L*
+***Speaking at panel discussion on behalf of T4L***
 
 I was honoured to speak at a panel discussion at a conference hosted by doctHERs (T4L's client) on Women Empowerment & Role of Digital Health. I shared about the importance of women empowerment along with examples of participants from our on-going projects in war-torn Afghanistan. I also shared our findings from research study & on-field project reports on the role of mHealth (Mobile Health) in getting timely and appropriate treatment for mental health patients. I learned a lot from the input of other participants and stakeholders in the then infant digital health ecosystem of Pakistan.
 
