@@ -129,6 +129,7 @@ Strategic planning & Marketing management of client projects
 - Inter-school Debate Competition
 
 ## Courses & Certificates
+[[Portfolio#Courses Certifications]]
 - Business, Brand and Behaviour (London Business School) - 2020
 - Google Fundamentals of Digital Marketing
 - Google Analytics Essential Training
