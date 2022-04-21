@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5258e24903185bec",
+        "id": "7f9d9b8ac7d599a9",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,11 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5258e24903185bec",
+  "active": "7f9d9b8ac7d599a9",
   "lastOpenFiles": [
     "Professional Resume.md",
-    "Home.md",
     "Portfolio/Portfolio.md",
+    "Home.md",
     "Purpose.md"
   ]
 }

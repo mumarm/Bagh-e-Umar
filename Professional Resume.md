@@ -51,7 +51,7 @@ Digital Health & Tele-medicine Firm
 - Successfully conducted Customs clearance of product (eSteth - Digital Stethoscope) import worth Rs.5 Million.
 - Tender filing & succeeding in bid (Govt. of Khyber Pakhtunkhwa - Health Department)
 - Trained team on WEBOC & Custom Clearance issues for smooth Supply Chain operations.
-- Spoke at a panel discussion conducted by doctHERs on Women Empowerment & use of Technology in Healthcare
+- Spoke at a panel discussion conducted by doctHERs on Women Empowerment & use of Technology in Healthcare [[T4L - doctHERs.jpg]]
 
 **BUSINESS DEVELOPMENT OFFICER**
 *Tech4Life Enterprises | Dec 2015 - Nov 2016*
