@@ -2,6 +2,23 @@
 
 - Raymond Pakistan (Social Media)
 
+*Jinnah in suits*
+
+![[Raymond - Jinnah in suits.png]]
+
+
+*Facial Hair Trends*
+
+![[Raymond - facial hair trends.png]]
+
+
+*Brown Shirt & Shoes*
+
+![[Raymond - Brown suit & shoes.png]]
+
+
+
+
 [[Raymond - Jinnah in suits.png]]
 [[Raymond - facial hair trends.png]]
 [[Raymond - Brown suit & shoes.png]]
