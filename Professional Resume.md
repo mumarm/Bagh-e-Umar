@@ -9,6 +9,8 @@ Creative individual & eager student of Social Sciences with Master's degree in E
 
 Interested in Data Privacy, Consumer Rights, Data Science, Python and ethical use of AI & Machine Learning.
 
+[[Portfolio]]
+
 ## Core Competencies
 - Copywriting
 - Brand Management
@@ -133,7 +135,6 @@ Strategic planning & Marketing management of client projects
 - Google Analytics Individual Qualification
 - LinkedIn Online Marketing Foundations
 - Hubspot Social Media Certified
-	- ![[Hubspot SM Certified.png]]
 - Presentation Skills Course (2010) - TSA
 - Intensive Conversation Course (2005) - PACC
 
@@ -161,6 +162,7 @@ Strategic planning & Marketing management of client projects
 Email: umarr@duck.com
 Location: Karachi, Pakistan
 
+[[Portfolio]]
 
 ## Tags
 #Copywriting, #Blogging, #CreativeWriting, #Storytelling, #MarketResearch, #MarketingStrategy, #DigitalMarketing, #IslamicMarketing, #BusinessDevelopment, #BrandManagement, #ConsumerRights, #DataPrivacy & #CustomerRelations

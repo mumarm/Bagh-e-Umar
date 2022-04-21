@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "707f466d092c5147",
+        "id": "5258e24903185bec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Professional Resume.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "707f466d092c5147",
+  "active": "5258e24903185bec",
   "lastOpenFiles": [
     "Professional Resume.md",
     "Home.md",
-    "test/test.md",
+    "Portfolio/Portfolio.md",
     "Purpose.md"
   ]
 }

@@ -10,4 +10,4 @@ This digital garden is a way to document my learning journey and share it with t
 Email: umarr@duck.com
 
 
-[[Home]] | [[Purpose]] |  [[Professional Resume]]
+[[Purpose]] |  [[Professional Resume]] | [[Portfolio]]
