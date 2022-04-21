@@ -17,24 +17,53 @@
 ![[Raymond - Brown suit & shoes.png]]
 
 
-
-
-[[Raymond - Jinnah in suits.png]]
-[[Raymond - facial hair trends.png]]
-[[Raymond - Brown suit & shoes.png]]
-
 - WashnClean (Brand & Social Media)
 
-[[WnC 2.jpeg]]
-[[WnC 3.jpeg]]
-[[WnC Flyer.jpg]]
+*World Water Day*
 
-- Tech4Life Enterprises (Marketing, Sales, Web & Social)
+![[WnC 2.jpeg]]
 
-[[T4L - eSteth.jpeg]]
-[[eSteth 1.jpeg]]
-[[eSteth Lite Photo.jpg]]
-[[eSteth Web Content.png]]
+
+*Pakistan Day*
+
+![[WnC 3.jpeg]]
+
+
+*Flyer*
+
+![[WnC Flyer.jpg]]
+
+
+- **Tech4Life Enterprises (Marketing, Sales, Web & Social)**
+
+*T4L's eSteth Digital Stethoscope demo at ARAB HEALTH '17*
+
+![[T4L - eSteth.jpeg]]
+
+
+*Speaking at panel discussion on behalf of T4L*
+
+I was honoured to speak at a panel discussion at a conference hosted by doctHERs (T4L's client) on Women Empowerment & Role of Digital Health. I shared about the importance of women empowerment along with examples of participants from our on-going projects in war-torn Afghanistan. I also shared our findings from research study & on-field project reports on the role of mHealth (Mobile Health) in getting timely and appropriate treatment for mental health patients. I learned a lot from the input of other participants and stakeholders in the then infant digital health ecosystem of Pakistan.
+
+Panelists included doctors, healthcare practitioners & reputable professionals from Unilever, GSK & NayaJeevan etc.
+
+
+![[T4L - doctHERs.jpg]]
+
+
+*eSteth on Social Media*
+
+![[eSteth 1.jpeg]]
+
+
+*eSteth Lite - Unboxing*
+
+![[eSteth Lite Photo.jpg]]
+
+
+*eSteth - Web Content*
+
+![[eSteth Web Content.png]]
 
 
 ## Publications

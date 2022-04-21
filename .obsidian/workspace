@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "560d3a6dd83268a2",
+        "id": "3e4c9b8e515aa643",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Portfolio/Portfolio.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Portfolio/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "560d3a6dd83268a2",
+  "active": "3e4c9b8e515aa643",
   "lastOpenFiles": [
     "Portfolio/Portfolio.md",
     "Purpose.md",
-    "Professional Resume.md",
+    "Portfolio/Professional Resume.md",
     "Home.md"
   ]
 }
