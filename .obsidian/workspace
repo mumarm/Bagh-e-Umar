@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4c9b8e515aa643",
+        "id": "56c68b72d3502908",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Portfolio/Portfolio.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e4c9b8e515aa643",
+  "active": "56c68b72d3502908",
   "lastOpenFiles": [
     "Portfolio/Portfolio.md",
     "Purpose.md",
