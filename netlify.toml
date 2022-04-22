@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = "Planting seeds of knowledge & reaping fruits of wisdom."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Umar's digital 🌳 & 2nd 🧠"
+LANDING_TITLE = "Umar's digital garden / 2nd brain"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/mumarm/Bagh-e-Umar"
