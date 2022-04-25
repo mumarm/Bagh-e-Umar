@@ -1,3 +1,7 @@
+In [[Documentaries]]
+
+
+
 Ten years on from his previous #film, [[Advertising & the End of the World]], renowned #media scholar Sut Jhally follows up by exploring the since-escalating devastating personal and #environmental fallouts of #advertising and the near-totalising #commercial #culture.
 
 The film tracks the emergence of the advertising industry in the early 20th century to the full-scale #commercialisation of the culture today, identifying the myth running throughout all of advertising: the idea that corporate brands and consumer goods are the keys to human happiness and fulfilment. We see how this powerful narrative, backed by billions of dollars a year and propagated by clever manipulative minds, has blinded us to the catastrophic costs of ever-accelerating rates of consumption. The result is a powerful film that unpacks fundamental issues surrounding commercialism, media culture, social well-being, environmental degradation, and the dichotomy between #capitalism and #democracy.
