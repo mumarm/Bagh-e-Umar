@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentaries/Documentaries.md",
-            "mode": "source",
+            "file": "Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentaries/Documentaries.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "8b2e9fba47890665",
   "lastOpenFiles": [
+    "Home.md",
     "Documentaries/Documentaries.md",
     "Documentaries/Advertising & the End of the World.md",
     "Documentaries/Advertising at the Edge of the Apocalypse.md",
-    "Home.md",
     "Profile/Publications/Need for a good resume - MUmarMuzaffar.pdf",
     "Profile/Publications/Importance of a well-written cover letter.pdf",
     "Profile/Portfolio.md",
