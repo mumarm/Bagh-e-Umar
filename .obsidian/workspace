@@ -7,8 +7,12 @@
         "id": "8b2e9fba47890665",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "8b2e9fba47890665",
   "lastOpenFiles": [
+    "Home.md",
+    "Temp/Sample1.md",
     "Blog/Blog Entry 1.md",
     "Documentaries/Advertising at the Edge of the Apocalypse.md",
     "Documentaries/Documentaries.md",
     "Documentaries/Advertising & the End of the World.md",
-    "Home.md",
     "Profile/Publications/Need for a good resume - MUmarMuzaffar.pdf",
     "Profile/Publications/Importance of a well-written cover letter.pdf",
     "Profile/Portfolio.md",
-    "Profile/Professional Resume.md",
-    "Profile/Umar casual.jpg"
+    "Profile/Professional Resume.md"
   ]
 }
