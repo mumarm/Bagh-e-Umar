@@ -13,6 +13,7 @@ List of documentaries that I've watched & my summaries on them.
 [[The Family]]
 [[The Inside Job]]
 [[The Social Dilemma]]
+[[The Century of Self]]
 
 
 ___
