@@ -1,3 +1,2 @@
 Temp/*
-/Blog
-/Documentary Outlines
+/Documentary Outlines/*
