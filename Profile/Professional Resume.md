@@ -12,10 +12,6 @@ Interested in Data Privacy, Consumer Rights, Data Science, Python and ethical us
 
 [[Portfolio]]
 
-## Curriculum Vitae
-
-
-
 ## Core Competencies
 - Copywriting
 - Brand Management
