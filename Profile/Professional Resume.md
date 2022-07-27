@@ -1,4 +1,5 @@
 ## Introduction
+### Muhammad Umar Muzaffar
 A writer at heart and marketer by profession. Business graduate with demonstrated experience in strategy, marketing management & communications.
 
 Served stakeholders of Pakistan digital health ecosystem like Tech4Life Enterprises, doctHers & SehatKahani, Marham.pk in bringing Telemedicine to remote locations. Registered 'eSteth', a Digital Stethoscope with Drugs Regulatory Authority of Pakistan & managed it's distribution across Eurasia & Africa.
@@ -10,6 +11,10 @@ Creative individual & eager student of Social Sciences with Master's degree in E
 Interested in Data Privacy, Consumer Rights, Data Science, Python and ethical use of AI & Machine Learning.
 
 [[Portfolio]]
+
+## Curriculum Vitae
+
+
 
 ## Core Competencies
 - Copywriting
