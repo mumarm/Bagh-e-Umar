@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/Documentary List.md",
+            "file": "Profile/Professional Resume.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Documentary List.md",
+                "file": "Profile/Professional Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "8b2e9fba47890665",
   "lastOpenFiles": [
+    "Profile/Courses & Certifications/Fundamentals of DM certificate.pdf",
+    "Blog/Documentary List.md",
     "Profile/Professional Resume.md",
     "Profile/Portfolio.md",
     "Home.md",
@@ -96,8 +98,6 @@
     "Blog/Blog Entry 1.md",
     "Documentaries/Advertising at the Edge of the Apocalypse.md",
     "Documentaries/Documentaries.md",
-    "Documentaries/Advertising & the End of the World.md",
-    "Profile/Publications/Need for a good resume - MUmarMuzaffar.pdf",
-    "Profile/Publications/Importance of a well-written cover letter.pdf"
+    "Documentaries/Advertising & the End of the World.md"
   ]
 }

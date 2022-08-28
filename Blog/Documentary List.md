@@ -1,18 +1,18 @@
 List of documentaries that I've watched & my summaries on them.
 
-[[Advertising at the Edge of the Apocalypse]]
-[[Advertising & the End of the World]]
-[[All Watched Over By Machines of Loving Grace]]
-[[Beyond A Reasonable Doubt]]
-[[Chernobyl]]
-[[CodedBias]]
-[[Dirty Money]]
 [[Money Masters]]
-[[Operation Varsity Blues]]
-[[The Family]]
+[[All Watched Over By Machines of Loving Grace]]
+[[The Century of Self]]
+[[Dirty Money]]
 [[The Inside Job]]
 [[The Social Dilemma]]
-[[The Century of Self]]
+[[Beyond A Reasonable Doubt]]
+[[Advertising at the Edge of the Apocalypse]]
+[[Advertising & the End of the World]]
+[[Chernobyl]]
+[[CodedBias]]
+[[Operation Varsity Blues]]
+[[The Family]]
 
 
 ___

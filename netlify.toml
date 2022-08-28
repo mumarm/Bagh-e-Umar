@@ -4,9 +4,9 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Walk in 👆"
+LANDING_BUTTON = "Let's explore"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Planting seeds of knowledge & reaping fruits of wisdom."
+LANDING_DESCRIPTION = "Thank you for visiting my digital garden."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
