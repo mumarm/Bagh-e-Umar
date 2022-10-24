@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "646da5058cd0ead9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecdca627650a8b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba359bd7b0fb1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentaries/Advertising at the Edge of the Apocalypse.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b660f3eeb64083d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a41a3d62f58c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d486b78b5215a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99eb220f9488d057",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e17491320c4eb698",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1b288181272851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1adbb0871f47c689",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentaries/Advertising at the Edge of the Apocalypse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7ba359bd7b0fb1f0",
+  "lastOpenFiles": [
+    "Home.md",
+    "Profile/Professional Resume.md",
+    "Purpose.md"
+  ]
+}
