@@ -84,34 +84,26 @@ Panelists included doctors, healthcare practitioners & reputable professionals f
 
 ![[UoL Brand Management DN49LZZDHZYY_MUM.jpg]]
 
-    [[UoL Brand Management DN49LZZDHZYY.pdf]]
-
 ### Fundamentals of Digital Marketing (Google)
 
 ![[Fundamentals of Digital Marketing_MUM.jpg]]
 
-	[[Fundamentals of DM certificate.pdf]]
 
 ### Google Universal Analytics Essential Training 2020
 
 ![[Google Universal Analytics Essential Training 2020_MUM.jpg]]
 
-    [[CertificateOfCompletion_Google Universal Analytics Essential Training 2020.pdf]]
 
-- Learning to Write Marketing Copy
+### Learning to Write Marketing Copy
 
 ![[Learning to Write Marketing Copy_MUM.jpg]]
 
-    [[CertificateOfCompletion_Learning to Write Marketing Copy.pdf]]
 
 ### Hubspot Social Media Certification
 
 ![[Hubspot SM Certified_MUM.jpg]]
 
-    [[Hubspot SM Certified.png]]
 
 ### Online Marketing Foundations (2018)
 
 ![[Online Marketing Foundations_MUM.jpg]]
-
-    [[CertificateOfCompletion_Online Marketing Foundations 2018.pdf]]
