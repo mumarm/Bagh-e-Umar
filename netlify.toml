@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Open"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "You can click on any node to visit that page."
+LANDING_DESCRIPTION = "Click on any node to visit that page."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
