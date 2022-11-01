@@ -79,26 +79,39 @@ Panelists included doctors, healthcare practitioners & reputable professionals f
 [aur TV: Aik aur Subh Program & Host Interview  in Urdu](http://drtnews.com/ur/archives/8955)
 
 ## Courses & Certifications:
-- Business Brand & Behaviour (University of London)
+
+### Business Brand & Behaviour (University of London)
+
+![[UoL Brand Management DN49LZZDHZYY_MUM.jpg]]
 
     [[UoL Brand Management DN49LZZDHZYY.pdf]]
 
-- Fundamentals of Digital Marketing (Google)
+### Fundamentals of Digital Marketing (Google)
 
-    [[Fundamentals of DM certificate.pdf]]
+![[Fundamentals of Digital Marketing_MUM.jpg]]
 
-- Google Universal Analytics Essential Training 2020
+	[[Fundamentals of DM certificate.pdf]]
+
+### Google Universal Analytics Essential Training 2020
+
+![[Google Universal Analytics Essential Training 2020_MUM.jpg]]
 
     [[CertificateOfCompletion_Google Universal Analytics Essential Training 2020.pdf]]
 
 - Learning to Write Marketing Copy
 
+![[Learning to Write Marketing Copy_MUM.jpg]]
+
     [[CertificateOfCompletion_Learning to Write Marketing Copy.pdf]]
 
-- Hubspot Social Media Certification
+### Hubspot Social Media Certification
+
+![[Hubspot SM Certified_MUM.jpg]]
 
     [[Hubspot SM Certified.png]]
 
-- Online Marketing Foundations (2018)
+### Online Marketing Foundations (2018)
+
+![[Online Marketing Foundations_MUM.jpg]]
 
     [[CertificateOfCompletion_Online Marketing Foundations 2018.pdf]]

@@ -1,3 +1,5 @@
+![[Umar.jpg]]
+
 ## Introduction
 ### Muhammad Umar Muzaffar
 A writer at heart and marketer by profession. Business graduate with demonstrated experience in strategy, marketing management & communications.
